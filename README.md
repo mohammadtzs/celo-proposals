@@ -13,7 +13,7 @@ Draft all proposals following the template below and submit to the CIPs reposito
 
 #### CIP template: ####
 
-Please see [CIPS/template.md](CIPs/cip-template.md) for a template.
+Please see [CIPS/template.md](CIPs/cip-template.md) for a template..
 
 #### Finding Us and Other Contributors ####
 For code-related questions, comments, and discussions please use the Celo Forum
